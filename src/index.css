@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url(./Roboto-Black.ttf);
+}
+
+.main-div{
+    font-family: 'CustomFont', sans-serif;
+}

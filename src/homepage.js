@@ -13,7 +13,7 @@ export function createHomepage() {
     homepageDiv.appendChild(homeImage);
     // description
     const homeDes = document.createElement("p");
-    homeDes.textContent = "Started in 2024, this is the best seafood boil in the stats";
+    homeDes.textContent = "Started in 2024, this is the best seafood boil in the states";
     homepageDiv.appendChild(homeDes);
 
 
